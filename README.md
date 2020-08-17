@@ -8,6 +8,19 @@ yarn add @canburaks/text-align-editorjs
 ```
 
 
+```
+import TextAlign from "@canburaks/text-align-editorjs"
+
+const editor = new EditorJS({ 
+  	holder: 'editorjs', 
+	tools: { 
+        textAlign:TextAlign
+    },
+})
+
+```
+
+
 ## License
 
 [MIT](LICENSE).

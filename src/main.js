@@ -55,4 +55,4 @@ class TextAlign {
 }
 
 
-export default Align
+export default TextAlign
