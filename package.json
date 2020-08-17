@@ -1,11 +1,10 @@
 {
-  "name": "text-align-editorjs",
+  "name": "@canburaks/text-align-editorjs",
   "version": "1.0.0",
   "main": "dist/text-align.cjs.js",
   "module": "dist/text-align.esm.js",
   "browser": "dist/text-align.umd.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.0.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
@@ -20,7 +19,7 @@
   "files": [
     "dist"
   ],
-  "description": "",
+  "description": "Inline text-align plugin for editorjs.",
   "directories": {
     "test": "test"
   },
