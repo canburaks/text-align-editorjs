@@ -1,4 +1,4 @@
-class TextAlign {
+export class TextAlign {
     
     static get isInline() {
         return true;
@@ -55,4 +55,3 @@ class TextAlign {
 }
 
 
-export default TextAlign
