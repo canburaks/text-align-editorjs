@@ -1,16 +1,15 @@
 {
-  "name": "rollup-starter-lib",
+  "name": "text-align-editorjs",
   "version": "1.0.0",
-  "main": "dist/how-long-till-lunch.cjs.js",
-  "module": "dist/how-long-till-lunch.esm.js",
-  "browser": "dist/how-long-till-lunch.umd.js",
+  "main": "dist/text-align.cjs.js",
+  "module": "dist/text-align.esm.js",
+  "browser": "dist/text-align.umd.js",
   "dependencies": {
-    "ms": "^2.0.0"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^11.0.1",
-    "@rollup/plugin-node-resolve": "^7.0.0",
-    "rollup": "^1.29.0"
+    "@rollup/plugin-commonjs": "^15.0.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup": "^2.26.3"
   },
   "scripts": {
     "build": "rollup -c",
@@ -20,5 +19,23 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canburaks/text-align-editorjs.git"
+  },
+  "keywords": [
+    "editorjs",
+    "editor-js"
+  ],
+  "author": "Can Burak Sofyalıoğlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canburaks/text-align-editorjs/issues"
+  },
+  "homepage": "https://github.com/canburaks/text-align-editorjs#readme"
 }
