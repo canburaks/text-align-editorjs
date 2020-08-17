@@ -1,6 +1,6 @@
 {
   "name": "@canburaks/text-align-editorjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/text-align.cjs.js",
   "module": "dist/text-align.esm.js",
   "browser": "dist/text-align.umd.js",
