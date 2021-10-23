@@ -1,11 +1,11 @@
 [![](https://data.jsdelivr.com/v1/package/npm/@canburaks/text-align-editorjs/badge)](https://www.jsdelivr.com/package/npm/@canburaks/text-align-editorjs)
 
 # Inline text-align plugin for editorjs.
-Text alignment with a button that tries all options (left, center, right, justify) in turn respectively.
+Text alignment with a button that tries all options (left, center, right, justify) in turn respectively. This is my first contribution to public. Therefore, it is highly probable to face an issue.
+
 
 ![text-align plugin editorjs](https://media.giphy.com/media/cmCF588Uv0nQZXOWZU/giphy.gif)
 
-This is my first contribution to public. Therefore, it is highly probable to face an issue.
 
 ## Installation
 ```
