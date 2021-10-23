@@ -6,6 +6,8 @@ Text alignment with a button that tries all options (left, center, right, justif
 
 ![text-align plugin editorjs](https://media.giphy.com/media/cmCF588Uv0nQZXOWZU/giphy.gif)
 
+The plugin works on paragraph blocks. The selection of styled elements within the paragraph also changes the alignment of the parent paragraph. (Previously it didn't work as expected)
+![text-align plugin styled elements](https://github.com/canburaks/text-align-editorjs/blob/master/assets/text-align-nietzsche.gif)
 
 ## Installation
 ```
